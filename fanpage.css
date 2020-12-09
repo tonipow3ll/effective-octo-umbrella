@@ -1,0 +1,51 @@
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    color: palevioletred;
+    text-align: center;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(194, 43, 93);
+    position: relative;
+    font-weight: lighter;
+    }
+.list {
+    color:white;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    
+}
+
+div {
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    border-style: solid;
+    display: inline-block;
+    position: absolute;
+    
+    
+    
+}
+#logo {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    border-style: solid;
+    background-image: url(etidlogov2.jpg);
+    position: relative;
+    
+
+}
+
+img {
+    width: 560px;
+    height: 315px;
+    border-style: solid;
+    color: white
+}
